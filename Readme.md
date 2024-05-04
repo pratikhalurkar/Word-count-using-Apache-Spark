@@ -1,12 +1,4 @@
-Pratik Amol Halurkar
-
-Module 5 assignment
-
-ALY6110: Big Data and Data Management (CRN: 20389)
-
-Prof. Daya Rudhramoorthi
-
-3/24/2024
+# Word count using Apache Spark
 
 # Introduction
 
